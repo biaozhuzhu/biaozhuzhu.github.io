@@ -71,6 +71,3 @@ Biao Zhu is a student.
 5. Noncoding RNA (small RNA, lncRNA etc.) secondary structure identification and search in large-scale genomic databases
 
 ---
-## Visit Map
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QqWiqtgpvhS5l2vUR-NBmZiV5sSdT6Hqfp8yYaFtTlY&cl=ffffff&w=a"></script>
