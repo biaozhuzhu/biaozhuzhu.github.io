@@ -4,9 +4,8 @@
   <tr>
     <td width="60%">
       <h1>Biao Zhu</h1>
-      <p><b>Dept. of Electrical Engineering</b></p>
+      <p><b>Institute for Advanced Study</b></p>
       <p><b>Shenzhen University</b></p>
-       <p><a href="/publication.html">[Publication]</a> <a href="/tools.html">[Tools]</a> <a href="/opening.html">[Opening]</a> <a href="/research_area.html">[Research Area]</a><a href="/News1.html">[News]</a><a href="/student.html">[Students]</a></p>
     </td>
     <td width="40%">
       <img src="/imgs/yanni.jpeg" width="150%">
@@ -22,13 +21,7 @@ Biao Zhu is a student.
 ---
 ## EDUCATION
 
-- Ph.D. in Computer Science, Washington University in St. Louis, MO, USA
 
-- Thesis: Designing Filtration Strategies for Fast Sequence Annotation
-
-- Advisor: Dr. Jeremy Buhler (Advisory committee: Dr. Jeremy Buhler, Dr. Gary Stormo, Dr. Michael Brent, Dr. Sally Goldman, Dr. Tao Ju, and Dr. Nan Lin).
-
-- M.S. and B.S. in Computer Science, Xi’an JiaoTong University, Xi’an, China
 
 ## Research Interests
 
