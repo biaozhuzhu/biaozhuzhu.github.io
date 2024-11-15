@@ -1,7 +1,3 @@
-# Understanding the Language of Life
-
-## Biao Zhu
-
 - **Institute for Advanced Study**
 - **Shenzhen University**
 
