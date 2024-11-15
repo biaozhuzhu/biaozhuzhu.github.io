@@ -5,7 +5,7 @@
 - **Institute for Advanced Study**
 - **Shenzhen University**
 
-![Profile Picture](/imgs/yanni.jpeg)
+![Profile Picture](yanni.jpeg)
 
 ---
 
@@ -50,8 +50,4 @@ Biao Zhu's research interests span across various domains within computational b
 
 ---
 
-Please make sure that the image paths (`/imgs/yanni.jpeg`, `/imgs/research_interest1.jpg`, `/imgs/research_interest2.jpg`) are correctly set according to the actual location of your images within the GitHub repository. If the images are in the root directory, you can simply use the filename without the path.
-
-To add the research interest images, you can create a folder named `imgs` in your repository and place the images there, then reference them as shown above. If you have the images and want to upload them to GitHub, you can do so by committing them to the repository.
-
-If you need further assistance with GitHub or have any other questions, feel free to ask!
+Please ensure that the image file names match the ones you will upload to your GitHub repository. If you have any other questions or need further assistance, feel free to ask!
